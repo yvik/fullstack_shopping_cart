@@ -7,7 +7,7 @@ Shopping cart app build with MERN stack and using RESTful API design. Responsive
 
 You can get and view the list of all products from the API, register, add products to cart, remove specific product or empty entire cart, make order...
 
-View demo <a href="http://ij-mobile-shop.herokuapp.com/">here</a> or go to "Installation and Usage" and follow the instructions to install and use.
+View demo <a href="http://shopping.me">here</a> or go to "Installation and Usage" and follow the instructions to install and use.
 
 ## Technologies & Tools
 
